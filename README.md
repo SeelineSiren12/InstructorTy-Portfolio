@@ -1,3 +1,5 @@
+![Tyra Austin GitHub Banner](bannerGH.png)
+
 # 👩🏽‍💻 Tyra Austin – Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! I'm a Master's student at Western Governors University, passionate about cloud security, incident response, and ethical hacking. Below are selected hands-on projects, professional labs, and real-world exercises I’ve completed through academic and personal development.
