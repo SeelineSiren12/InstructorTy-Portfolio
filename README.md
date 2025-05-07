@@ -19,7 +19,7 @@ Welcome to my cybersecurity portfolio! I'm a Master's student at Western Governo
 - Evaluated HIPAA compliance and tested vulnerabilities in patient record systems
 - Aligned findings with NIST SP 800-115 and OWASP Testing Guide
 - ✅ Recommended user behavior analytics, phishing simulations, and EHR hardening
-- 📄 [View Report (PDF)](D484%20-%20PenetrationTestReportbyTyra_Austin.pdf)
+-📄 [Penetration Testing Report – PDF](D484_PenetrationTestReportbyTyra_Austin.pdf)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my cybersecurity portfolio! I'm a Master's student at Western Governo
 - Investigated a real-world crypto-mining malware attack (XMRig)
 - Analyzed system and network impact, restored service, and hardened firewall rules
 - Recommended long-term prevention via HIDS/IPS, phishing training, and segmentation
-- 📄 [View Report (PDF)](Incident%20Reporting%20ProjectTAustin.pdf)
+- 📄 [Incident Response Report – PDF](Incident_Reporting_Project_TAustin.pdf)
 
 ---
 
