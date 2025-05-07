@@ -63,5 +63,5 @@ Built and maintained a personal cybersecurity lab using Oracle VirtualBox with K
 ## 📫 Connect With Me
 
 - 🌐 LinkedIn: linkedin.com/in/tyra-austin
-- 📄 Resume: TyraAustin_Cybersecurity_Resume.pdf
+- 📄 Download Resume (PDF)](TyraAustin_Cybersecurity_Resume.pdf)
 - 💌 Email: tyraaustin57@gmail.com
